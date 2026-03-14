@@ -1,0 +1,22 @@
+name: amazon-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.3
+  - r-shiny
+  - r-bslib
+  - r-dplyr
+  - r-plotly
+  - r-ggridges
+  - r-ggplot2
+  - r-htmltools
+  - r-tibble
+  - r-readr
+  - r-tidyr
+  - r-stringr
+  - r-purrr
+  - r-jsonlite
+  - r-httpuv
+  - r-remotes
+  - r-rmarkdown
+  - r-knitr
