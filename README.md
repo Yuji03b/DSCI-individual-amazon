@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard (R)
+# Amazon Sales Dashboard
 
 ## Overview
 
